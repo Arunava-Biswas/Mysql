@@ -1,0 +1,9 @@
+Package                Version
+---------------------- ---------
+certifi                2022.6.15
+mysql-connector-python 8.0.29
+pip                    22.1.2
+protobuf               4.21.2
+setuptools             61.2.0
+wheel                  0.37.1
+wincertstore           0.2
